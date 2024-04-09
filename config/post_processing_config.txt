@@ -1,0 +1,11 @@
+input_file_path ./data/example_input/
+output_file_path ./result/example_input/
+replace_na_method 1k
+sample_blank_ratio 1.5
+sample_blank_ratio_passing_rate 0.8
+qc_rsd 30
+qc_rsd_qc_rsd_passing_rate 0.8
+output_name res
+blacklist none
+qc_rsd_filter False
+sample_blank_filter False

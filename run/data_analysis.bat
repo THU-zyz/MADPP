@@ -1,0 +1,1 @@
+python ../data_analysis.py -c ../config/data_analysis_config.txt

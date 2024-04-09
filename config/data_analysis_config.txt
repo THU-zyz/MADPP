@@ -1,0 +1,7 @@
+post_processed_file ./result/TNBC-Batch01-09/result.xlsx
+output_file_path ./result/TNBC-Batch01-09
+ref_table_file ./data/input/concentration_table/ref.xlsx
+FC 1.25
+significance_test_method TTEST
+FDR True
+labels T N
